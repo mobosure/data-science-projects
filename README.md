@@ -85,7 +85,3 @@ I'm passionate about leveraging data to drive impactful solutions. My future goa
 - Contribute to open-source projects and collaborate with the data science community.
 
 Thank you for visiting my GitHub! Let's create something amazing together! 🚀
-
----
-
-Feel free to personalise any sections or details to reflect your experience and aspirations better. Good luck with your GitHub page!
