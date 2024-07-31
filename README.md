@@ -1,10 +1,10 @@
 # 🌟 My Data Science Journey 🌟
 
-Welcome to my GitHub! I'm Madago Emuobo Prosper, and I'm thrilled to share my journey through the fascinating world of data science. I recently completed a comprehensive boot camp at Gomycode Nigeria Yaba-Hackerspace, where I learned many skills to tackle real-world data challenges. Let's dive into the details!
+Welcome to my GitHub! I'm thrilled to share my journey through the fascinating world of data science. I recently completed a comprehensive Bootcamp training programme at GOMYCODE Nigeria Yaba-Lagos Hackerspace, where I learned many skills to tackle real-world data challenges. Let's dive into the details!
 
 ## 🚀 About Me
 - **Name:** Madago Emuobo Prosper
-- **Bootcamp:** Gomycode Nigeria Yaba-Hackerspace
+- **Bootcamp:** Gomycode Nigeria Yaba-Lagos Hackerspace
 - **Specialization:** Data Science & Machine Learning
 - **Passions:** Data Analysis, Machine Learning, Deep Learning, Data Visualization, AI Applications
 
