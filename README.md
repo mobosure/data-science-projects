@@ -1,9 +1,5 @@
 # data-science-projects
 
-Here's a compelling GitHub README for your data science journey, highlighting your experience and skills from Gomycode Nigeria Yaba-Hackerspace:
-
----
-
 # 🌟 My Data Science Journey 🌟
 
 Welcome to my GitHub! I'm Madago Emuobo Prosper, and I'm thrilled to share my journey through the fascinating world of data science. I recently completed a comprehensive boot camp at Gomycode Nigeria Yaba-Hackerspace, where I learned many skills to tackle real-world data challenges. Let's dive into the details!
